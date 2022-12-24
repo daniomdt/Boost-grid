@@ -1,0 +1,13 @@
+main>.container {
+    padding: 60 px 15px 0;
+}
+
+.homeBG {
+    width: 100%;
+    background: url(/img/bg-page-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
